@@ -1,11 +1,9 @@
 **Useful list of Chinese and English threat intelligence blogs**
 
----
 
-### Threat Intelligence Blogs
 
-| **Title** | **Summary Info** | **URL** |
-|-----------|------------------|---------|
+| ID | Summary | URL |
+| :--- | :---: | ---: |
 | Microsoft Security Blog – Threat Intelligence | Insights from Microsoft’s global threat intelligence team analyzing 100 trillion signals daily. | `https://www.microsoft.com/security/blog/category/threat-intelligence/` [(microsoft.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.microsoft.com%2Fsecurity%2Fblog%2Fcategory%2Fthreat-intelligence%2F") |
 | FireEye Threat Research Blog | Research on advanced persistent threats (APT), malware, and cybercrime campaigns. | `https://www.fireeye.com/blog/threat-research.html` [(fireeye.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.fireeye.com%2Fblog%2Fthreat-research.html") |
 | Palo Alto Networks Unit 42 | In-depth threat intelligence reports, malware analysis, and incident response findings. | [https://unit42.paloaltonetworks.com/](https://unit42.paloaltonetworks.com/) |
